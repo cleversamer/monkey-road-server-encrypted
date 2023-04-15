@@ -1,0 +1,58 @@
+function _0x3af2(_0x2e2953, _0x52983f) {
+  var _0xc037a7 = _0xc037();
+  return (
+    (_0x3af2 = function (_0x3af209, _0x5a657d) {
+      _0x3af209 = _0x3af209 - 0x172;
+      var _0x25b688 = _0xc037a7[_0x3af209];
+      return _0x25b688;
+    }),
+    _0x3af2(_0x2e2953, _0x52983f)
+  );
+}
+var _0x2e4ed2 = _0x3af2;
+function _0xc037() {
+  var _0x271c14 = [
+    "3666849zyWczl",
+    "4717880LraOwH",
+    "exports",
+    "198310DPdBVk",
+    "453160lPTkUI",
+    "4870218CsOgWE",
+    "7Lskbyq",
+    "8978751oZtIjz",
+    "6kxEoEs",
+    "4985784vzyJcB",
+  ];
+  _0xc037 = function () {
+    return _0x271c14;
+  };
+  return _0xc037();
+}
+(function (_0x33d528, _0x4207d6) {
+  var _0x43b69c = _0x3af2,
+    _0x583950 = _0x33d528();
+  while (!![]) {
+    try {
+      var _0x32ce38 =
+        (-parseInt(_0x43b69c(0x175)) / 0x1) *
+          (parseInt(_0x43b69c(0x17a)) / 0x2) +
+        -parseInt(_0x43b69c(0x172)) / 0x3 +
+        parseInt(_0x43b69c(0x17b)) / 0x4 +
+        parseInt(_0x43b69c(0x176)) / 0x5 +
+        (-parseInt(_0x43b69c(0x177)) / 0x6) *
+          (-parseInt(_0x43b69c(0x178)) / 0x7) +
+        -parseInt(_0x43b69c(0x173)) / 0x8 +
+        parseInt(_0x43b69c(0x179)) / 0x9;
+      if (_0x32ce38 === _0x4207d6) break;
+      else _0x583950["push"](_0x583950["shift"]());
+    } catch (_0x31eaec) {
+      _0x583950["push"](_0x583950["shift"]());
+    }
+  }
+})(_0xc037, 0xb4890),
+  (module[_0x2e4ed2(0x174)] = {
+    priceFor: { minLength: 0x1, maxLength: 0x80 },
+    value: { min: 0x0, max: 0x3e8 * 0x3e8, default: 0x64 },
+    coupon: { minLength: 0x1, maxLength: 0x80 },
+    validityHours: { min: 0x0, max: 0x64 * 0x3e8 },
+  });
